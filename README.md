@@ -5,4 +5,4 @@ There are 4 chat rooms to be joined namely lounge, news, games and coding. When 
 ## How to run the app :
 To run this app clone this into you machine. Then run the folllowing command:
 
-  ## python application.py
+&nbsp;&nbsp;&nbsp;&nbsp;**python application.py**
